@@ -2,8 +2,14 @@
 
 ## Using
 
-```
+```terminal
 cd frontend && npm i
-cd ../api && npm i
-cd ../frontend npx swa start
+```
+
+```terminal
+cd api && npm i
+```
+
+```terminal
+swa start
 ```
